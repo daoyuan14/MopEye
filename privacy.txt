@@ -1,0 +1,17 @@
+MopEye is a very useful app that measures mobile apps' network performance and enables you to compare different apps' performance.
+By using this app, you are contributing the performance data to our study.
+We will in turn give you more knowledge about the performance of applications installed on your phone.
+We intend to make this a long-term study.
+
+As a participant, you will obtain:
+(1) the raw and statistical data on different apps' network performance;
+(2) the list-view comparison of network performance.
+It is worth noting that our study will not cause any foreseeable risks or discomforts to the subjects.
+
+To guarantee your confidentiality and privacy,
+(1) we will *not* use a remote VPN server to forward your traffic (all forwarding is done inside phone).
+(2) we will only collect the non-person-identifiable information including per-app performance data (those you see on MopEye's UI), device hardware information (no IMEI, and ANDROID_ID is hashed with salt), signal strength, and coarse-grained location data.
+(3) we will transmit the collected information to server using the standard encryption method via HTTPS.
+(4) we will *not* record your mobile browsers' traffic for better privacy.
+
+More information is available in the app-side term-of-use dialog.
